@@ -1,5 +1,9 @@
 DLG = Daddy's Little Girl
 
+----------- v1.2.3 @ 7/26/2016 -----------
+- Updated mod to latest ScriptHookDotNet v2.9.2
+- Updated the README.txt content
+
 ----------- v1.2.2 @ 5/22/2016 -----------
 - Prevented Lester and Paige from being able to get scared or killed.
 - Cleaned up a part of the source code.
