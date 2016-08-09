@@ -1,5 +1,11 @@
 DLG = Daddy's Little Girl
 
+----------- v1.3.0 @ 8/9/2016 -----------
+- Added the Dutch translation of the locale file.
+- Added a locale file containing the conversations and mission objective texts, making it possible for people 
+  to translate the mod into their own language. 
+- Updated the README.txt file content
+
 ----------- v1.2.3 @ 7/26/2016 -----------
 - Updated mod to latest ScriptHookDotNet v2.9.2
 - Updated the README.txt content
