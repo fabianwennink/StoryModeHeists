@@ -1,5 +1,10 @@
 DLG = Daddy's Little Girl
 
+----------- v1.3.1 @ 9/22/2016 -----------
+- Removed some unnecessary lines of code.
+- Fixed a few mistakes in the English local file.
+- Fixed a minor bug.
+
 ----------- v1.3.0 @ 8/9/2016 -----------
 - Added a locale file containing the conversations and mission objective texts, making it possible for people 
   to translate the mod into their own language. 
