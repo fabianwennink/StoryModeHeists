@@ -3,3 +3,4 @@ This mod brings brand new GTA 5 Online-like heists to singleplayer. Every heists
 
 You will play as Michael, who will work together with Franklin, Trevor and Lester to complete each heist and earn some big bucks. 
 
+Project page: https://nl.gta5-mods.com/scripts/story-mode-heists-net
