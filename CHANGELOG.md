@@ -1,5 +1,9 @@
 DLG = Daddy's Little Girl
 
+----------- v1.3.3 @ 12/21/2016 -----------
+- Added the Portuguese translation of the locale file (by RodrigoDEV).
+- Updated mod to latest ScriptHookDotNet v2.9.4
+
 ----------- v1.3.2 @ 11/5/2016 -----------
 - Added the French translation of the locale file (by plutonmania).
 - Added the Spanish translation of the locale file (by erjosi_81).
