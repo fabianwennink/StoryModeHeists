@@ -1,5 +1,10 @@
 DLG = Daddy's Little Girl
 
+----------- v1.3.4 @ 12/26/2016 -----------
+
+- Fixed a bug which caused the conversation text in mission 4 to not show.
+  Requires players to overwrite the existing locale files with the newer ones.
+
 ----------- v1.3.3 @ 12/21/2016 -----------
 - Added the Portuguese translation of the locale file (by RodrigoDEV).
 - Updated mod to latest ScriptHookDotNet v2.9.4
@@ -11,7 +16,7 @@ DLG = Daddy's Little Girl
 
 ----------- v1.3.1 @ 9/22/2016 -----------
 - Removed some unnecessary lines of code.
-- Fixed a few mistakes in the English local file.
+- Fixed a few mistakes in the English locale file.
 - Fixed a minor bug.
 
 ----------- v1.3.0 @ 8/9/2016 -----------
