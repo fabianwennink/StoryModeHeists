@@ -1,5 +1,9 @@
 DLG = Daddy's Little Girl
 
+----------- v1.3.5 @ 12/29/2016 -----------
+
+- Fixed a bug that broke the Finale mission of DLG, making it impossible to play the mission.
+
 ----------- v1.3.4 @ 12/26/2016 -----------
 
 - Fixed a bug which caused the conversation text in mission 4 to not show.
