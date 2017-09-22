@@ -1,5 +1,10 @@
 DLG = Daddy's Little Girl
 
+----------- v1.3.6 @ 9/23/2017 -----------
+
+- Added the Chinese translation of the locale file (by Terry13143).
+- Updated mod to latest ScriptHookDotNet v2.10.2
+
 ----------- v1.3.5 @ 12/29/2016 -----------
 
 - Fixed a bug that broke the Finale mission of DLG, making it impossible to play the mission.
