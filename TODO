@@ -1,17 +1,11 @@
-- Fix UFT-8 locale problem.
 - 'Redo' all missions, improve the way the code is written.
-- Redo the death screen
 - Implement the new 'Mission Passed' screen, track mission stats etc.
-- Add the busted and death checks to the main game tick, not the per-mission one.
 - Fix the peds issue where they forget their objective
 - Fix the peds issue where they keep shooting at the cops/enemies
 - Improve the missions, in terms of gameplay, enemies etc.
 
 Introduction:
-  - Fix the problem where lester doesn't start talking after entering the house.
   - Change the part at the door, use the camera maybe?
-  - Change the text message
-  - Create own class for the introduction, don't use the Utils class.
 
 RespawnHandler:
   - Make more efficient
